@@ -1,4 +1,4 @@
-package soda.homework.conf;
+package soda.homework1.conf;
 
 import org.apache.hadoop.conf.Configuration;
 

@@ -1,4 +1,4 @@
-package soda.homework.runs;
+package soda.homework1.runs;
 
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;

@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Main-Class: soda.homework.runs.RunTraffic
+Main-Class: soda.homework1.runs.RunTraffic
 Class-Path: httpclient-4.1.2.jar apacheds-kerberos-codec-2.0.0-M15.jar p
  rotobuf-java-2.5.0.jar commons-collections-3.2.2.jar hadoop-yarn-server
  -common-2.7.5.jar htrace-core-3.1.0-incubating.jar jsr305-3.0.0.jar com
